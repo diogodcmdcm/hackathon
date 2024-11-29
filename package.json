@@ -14,5 +14,10 @@
   "type": "module",
   "workspaces": [
     "src/hackathon_frontend"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "react-bootstrap": "^2.10.6",
+    "react-router-dom": "^6.28.0"
+  }
 }
